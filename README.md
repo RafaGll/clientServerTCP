@@ -7,7 +7,7 @@ java LFTClient modo=SSL host=192.168.1.33 puerto=1721 carpeta_cliente=c:\lft
 java LFTServer puerto=1721 carpeta_servidor=/var/lft/carpeta max_clientes=10
 
 ### Client
-carpeta_cliente=xxx
+carpeta_cliente=xxx\n
 puerto=xxxx
 host=xxx.xxx.xxx.xxx
 modo=xxx (not working)
