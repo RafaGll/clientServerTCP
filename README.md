@@ -1,5 +1,6 @@
 # clientServerTCP
-Send files between client and server (JAVA) (TCP)
+Implemented in JAVA  
+Send files between client and server (TCP)
 Multiple clients simultaneous
 
 ## Arguments:  
