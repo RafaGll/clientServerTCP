@@ -3,6 +3,7 @@ Send files between client and server (JAVA) (TCP)
 Multiple clients simultaneous
 
 ## Arguments:  
+
 ### Client  
 carpeta_cliente=xxx  
 puerto=xxxx  
@@ -14,7 +15,7 @@ carpeta_servidor=xxx
 puerto=xxxx  
 max_clientes=xx  
 
-## Comandos:  
+## Commands:  
 get file  
 put file  
 list  
